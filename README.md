@@ -1,6 +1,6 @@
 # 章鱼哥的自我介绍
 
-<img src="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E8%B7%AF%E9%A3%9E%E5%9B%BE%E7%89%87&hs=0&pn=7&spn=0&di=7466852183703552001&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=3942368848%2C1122996081&os=3538479836%2C2798512885&simid=4201717817%2C656341176&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E8%B7%AF%E9%A3%9E%E5%9B%BE%E7%89%87&objurl=https%3A%2F%2Fb0.bdstatic.com%2Ffe9522740c4c7a3cadc037cf8d81ea2d.jpg%40h_1280&fromurl=ipprf_z2C%24qAzdH3FAzdH3F4k1_z%26e3Bkwt17_z%26e3Bv54AzdH3Fgjofrw2jAzdH3F1wpwAzdH3F1pswg1tg2otfj%3Fgt1%3D1p_9b8dbl809dnclbn0d98%26f576vjF654%3Di54jrw2j&gsm=&islist=&querylist=&dyTabStr=MCwxMiwzLDEsMiwxMyw3LDYsNSw5" width="200" alt="路飞形象">
+<img src="路飞.png" width="200" alt="路飞形象">
 
 大家好，我是**蒙奇。D。路飞**，我的身份是*阳光梅利号船长，草帽海贼团团长，四黄草帽小子*。以下是我的自我介绍：
 
